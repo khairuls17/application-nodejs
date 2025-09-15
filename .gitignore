@@ -3,3 +3,7 @@
 node_modules
 data
 access.log
+docker-compose.yml
+Dockerfile
+.github/workflows/ci.yml
+.github/workflows/cd.yml
